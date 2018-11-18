@@ -1,20 +1,19 @@
-# VPN
+# FVPN
+<br>
 <p align="center">
 <a href="http://vpn.yuantuo666.top/setup.exe" target="_blank">
-    <img width="600px" src="https://i.loli.net/2018/11/18/5bf129c71b1b6.jpg">
+    <img width="960px" src="https://i.loli.net/2018/11/18/5bf129c71b1b6.jpg">
 </a>
+<b>F-vpn</b><br>Made by YuanTuo<br>官网:http://vpn.yuantuo.xyz
 </p>
-Made by YuanTuo
 
-官网:http://vpn.yuantuo.xyz
+## 说明
 
-# 说明
-
-目前推出1.2版
+目前推出1.3版
 
 可以进入官网下载
 
-# 更新内容
+## 更新内容
 
 - 1.3 （11.14）
     - 加入公告（试用码）功能。
