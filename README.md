@@ -4,14 +4,14 @@
 <a href="http://vpn.yuantuo666.top/setup.exe" target="_blank">
     <img width="960px" src="https://i.loli.net/2018/11/18/5bf129c71b1b6.jpg">
 </a>
-<b>F-vpn</b><br>Made by YuanTuo<br>官网:http://vpn.yuantuo.xyz
+<b>F-vpn</b><br>Made by YuanTuo<br>官网:http://vpn.yuantuo666.top
 </p>
 <br>
 
 ## 说明
 <i>本软件原名"VPN"</i>
 <br>
-   目前推出1.3版
+   目前推出1.4版
 <br>
    可以进入官网下载
 <br>
